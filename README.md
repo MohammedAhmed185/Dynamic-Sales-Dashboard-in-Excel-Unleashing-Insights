@@ -31,3 +31,9 @@ Noteworthy Features:
 Join the Adventure
 
 Whether you’re a seasoned analyst or a curious explorer, this project invites you to explore data-driven insights. 🌠 Let’s unlock the power of data together!
+
+
+![1](https://github.com/MohammedAhmed185/Dynamic-Sales-Dashboard-in-Excel-Unleashing-Insights/assets/84413710/dc6f40e8-6109-4aa5-97b0-145aaf60549d)
+![2](https://github.com/MohammedAhmed185/Dynamic-Sales-Dashboard-in-Excel-Unleashing-Insights/assets/84413710/b583423e-fbe6-4f02-b973-2abe6a31264d)
+![3](https://github.com/MohammedAhmed185/Dynamic-Sales-Dashboard-in-Excel-Unleashing-Insights/assets/84413710/8f3e122b-1ca6-4190-8e33-32ac1f137442)
+![4](https://github.com/MohammedAhmed185/Dynamic-Sales-Dashboard-in-Excel-Unleashing-Insights/assets/84413710/d74e2802-6e2f-4d08-b761-d2390985b29f)
